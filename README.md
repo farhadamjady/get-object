@@ -1,4 +1,4 @@
-# Get Object
+# Get String Object
 Make js object with given string
 
 ## Install
@@ -6,12 +6,12 @@ Make js object with given string
 Install with [npm](https://www.npmjs.com/):
 
 ```sh
-$ npm install --save get-object
+$ npm install --save get-string-object
 ```
     
 ```js
 
-const getObject = require('get-object');
+const getObject = require('get-string-object');
 
 getObject(); // {}
 
