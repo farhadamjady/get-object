@@ -11,7 +11,7 @@ $ npm install --save get-object
     
 ```js
 
-const getObject = require('./');
+const getObject = require('get-object');
 
 getObject(); // {}
 

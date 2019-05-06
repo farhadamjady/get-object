@@ -1,0 +1,24 @@
+{
+  "name": "get-object",
+  "version": "1.0.1",
+  "description": "Make js object with given string",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farhadamjady/get-object.git"
+  },
+  "keywords": [
+    "make-object",
+    "string",
+    "object"
+  ],
+  "author": "Farhad Amjady",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/farhadamjady/get-object/issues"
+  },
+  "homepage": "https://github.com/farhadamjady/get-object#readme"
+}
